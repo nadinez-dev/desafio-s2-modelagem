@@ -1,0 +1,32 @@
+track_id,titulo,artista_id,album,genero,duracao_seg,data_lancamento,explicit
+TRK0001,Goela Abaixo,ART0001,Goela Abaixo,soul,213,2022-03-10,false
+TRK0002,Ismael,ART0001,Nha Cretcheu,soul,187,2018-06-01,false
+TRK0003,Ocas do Mundo,ART0002,Ocas do Mundo,pop,198,2023-01-20,false
+TRK0004,Troca de Calçada,ART0002,Ocas do Mundo,pop,224,2023-01-20,false
+TRK0005,Coentro,ART0003,Versions,pop,215,2023-08-11,false
+TRK0006,Que Tiro Foi Esse,ART0003,GG Baddest,pop,195,2019-05-22,false
+TRK0007,Aquostic,ART0004,Ladrão,hip-hop,245,2019-09-13,true
+TRK0008,Malvadão,ART0004,Ladrão,hip-hop,190,2019-09-13,true
+TRK0009,Anunciação,ART0005,Cavalo de Aço,mpb,312,1994-01-01,false
+TRK0010,777-666,ART0006,Máquina do Tempo,hip-hop,228,2019-10-25,true
+TRK0011,Biotônico,ART0006,Máquina do Tempo,hip-hop,203,2019-10-25,true
+TRK0012,Praça Central,ART0007,Kitchen Sink,eletronica,262,2022-06-03,false
+TRK0013,De Letra,ART0008,Convoque Seu Buda,hip-hop,284,2011-08-26,false
+TRK0014,Bogotá,ART0009,Bom Mesmo É Estar Debaixo D'água,r&b,239,2017-03-17,false
+TRK0015,Gucci,ART0010,Gucci,pop,198,2022-11-04,false
+TRK0016,Time Moves Slow,ART0011,IV,jazz,298,2016-09-30,false
+TRK0017,Lune,ART0012,Vincent,eletronica,273,2021-04-09,false
+TRK0018,Comfortably Numb,ART0013,Le Monde Fantastique D'Oz,psychedelic,331,2020-08-28,false
+TRK0019,Sink,ART0014,Devotion,eletronica,222,2018-02-08,false
+TRK0020,Blinding Lights,ART0015,After Hours,r&b,200,2019-11-29,false
+TRK0021,Happier Than Ever,ART0016,Happier Than Ever,pop,237,2021-07-30,false
+TRK0022,Bicuda,ART0017,Avenida,indie,197,2022-05-13,false
+TRK0023,Dois Corpos,ART0018,Dois Corpos,mpb,253,2016-04-29,false
+TRK0024,Mozart,ART0019,Mozart,hip-hop,231,2019-06-28,true
+TRK0025,Sulicídio,ART0019,Sulicídio,hip-hop,248,2023-07-07,true
+TRK0026,Quase,ART0020,Tudo Que Você Quiser,rock,218,2020-02-14,false
+TRK0027,Pra Sempre,ART0001,Goela Abaixo,soul,201,2022-03-10,false
+TRK0028,Canguru,ART0007,Kitchen Sink,eletronica,278,2022-06-03,false
+TRK0029,Savej,ART0013,Mordechai,psychedelic,344,2020-05-29,false
+TRK0030,Too Late,ART0015,After Hours,r&b,219,2020-03-20,false
+TRK0031,Time to Bleed,ART0031,Shamed,rock,234,2009-06-12,false

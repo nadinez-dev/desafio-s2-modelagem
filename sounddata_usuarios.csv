@@ -1,0 +1,31 @@
+usuario_id,nome,email,plano,pais,cidade,data_cadastro,faixa_etaria
+USR0001,Aisha Ferreira,aisha.ferreira@email.com,premium_mensal,BR,Brasília,2021-02-02,55+
+USR0002,Bruno Nakamura,bruno.nakamura@email.com,free,BR,São Paulo,2021-08-12,35-44
+USR0003,Camila Souza,camila.souza@email.com,premium_mensal,BR,Curitiba,2022-09-09,25-34
+USR0004,Diego Martins,diego.martins@email.com,premium_mensal,BR,São Paulo,2021-07-23,18-24
+USR0005,Elena Costa,elena.costa@email.com,premium_anual,PT,Lisboa,2022-12-20,25-34
+USR0006,Felipe Ribeiro,felipe.ribeiro@email.com,premium_mensal,BR,Manaus,2021-08-14,45-54
+USR0007,Gabriela Lima,gabriela.lima@email.com,premium_mensal,BR,Salvador,2021-10-12,35-44
+USR0008,Henrique Alves,henrique.alves@email.com,estudante,MX,Cidade do México,2021-01-07,18-24
+USR0009,Isabela Teixeira,isabela.teixeira@email.com,estudante,MX,Cidade do México,2021-06-13,18-24
+USR0010,João Cardoso,joão.cardoso@email.com,premium_mensal,PT,Lisboa,2021-12-15,25-34
+USR0011,Karen Oliveira,karen.oliveira@email.com,free,BR,Recife,2021-08-09,55+
+USR0012,Lucas Pereira,lucas.pereira@email.com,free,MX,Cidade do México,2021-04-15,35-44
+USR0013,Marina Santos,marina.santos@email.com,premium_mensal,BR,Rio de Janeiro,2021-04-10,25-34
+USR0014,Nicolas Rocha,nicolas.rocha@email.com,estudante,BR,Porto Alegre,2021-12-19,18-24
+USR0015,Olivia Castro,olivia.castro@email.com,free,BR,Brasília,2021-02-14,25-34
+USR0016,Pedro Mendes,pedro.mendes@email.com,premium_mensal,PT,Lisboa,2022-07-04,45-54
+USR0017,Queila Barbosa,queila.barbosa@email.com,premium_mensal,BR,Rio de Janeiro,2021-03-22,35-44
+USR0018,Rafael Gomes,rafael.gomes@email.com,free,BR,Manaus,2022-10-06,18-24
+USR0019,Stefania Torres,stefania.torres@email.com,estudante,BR,Brasília,2022-01-06,18-24
+USR0020,Thiago Araújo,thiago.araújo@email.com,free,BR,Brasília,2022-12-23,25-34
+USR0021,Ursula Freitas,ursula.freitas@email.com,free,BR,Rio de Janeiro,2022-11-09,55+
+USR0022,Vitor Correia,vitor.correia@email.com,estudante,BR,Curitiba,2021-10-24,35-44
+USR0023,Wanda Ramos,wanda.ramos@email.com,estudante,BR,Rio de Janeiro,2021-08-27,25-34
+USR0024,Xavier Nunes,xavier.nunes@email.com,free,US,Miami,2022-01-25,18-24
+USR0025,Yasmin Dias,yasmin.dias@email.com,premium_mensal,BR,Recife,2022-10-13,25-34
+USR0026,Zara Pinto,zara.pinto@email.com,free,US,Miami,2021-06-16,45-54
+USR0027,André Monteiro,andré.monteiro@email.com,free,BR,Porto Alegre,2021-08-03,35-44
+USR0042,Karen Oliveira,karen.oliveira@email.com,free,BR,São Paulo,2022-03-15,25-34
+USR0117,Lucas Pereira,lucas.pereira@email.com,premium_mensal,BR,Curitiba,2021-11-08,18-24
+USR0203,Mariana Torres,mariana.torres@email.com,estudante,BR,Belo Horizonte,2023-01-20,18-24
