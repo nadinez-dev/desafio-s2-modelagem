@@ -24,7 +24,7 @@ SELECT * FROM read_csv_auto('sounddata_plays.csv');
 """)
 
 # Conferir se os dados carregaram corretamente
-print("Usuários:", con.execute("SELECT COUNT(*) FROM dim_usuario").fetchone()[0])
+
 print("Tracks:", con.execute("SELECT COUNT(*) FROM dim_track").fetchone()[0])
 print("Artistas:", con.execute("SELECT COUNT(*) FROM dim_artista").fetchone()[0])
 print("Datas:", con.execute("SELECT COUNT(*) FROM dim_data").fetchone()[0])
