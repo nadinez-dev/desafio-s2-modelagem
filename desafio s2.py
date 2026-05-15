@@ -25,10 +25,10 @@ SELECT * FROM read_csv_auto('sounddata_plays.csv');
 
 # Conferir se os dados carregaram corretamente
 
-print("Tracks:", con.execute("SELECT COUNT(*) FROM dim_track").fetchone()[0])
-print("Artistas:", con.execute("SELECT COUNT(*) FROM dim_artista").fetchone()[0])
-print("Datas:", con.execute("SELECT COUNT(*) FROM dim_data").fetchone()[0])
-print("Plays:", con.execute("SELECT COUNT(*) FROM fato_plays").fetchone()[0])
+print("Artistas:", con.execute("SELECT COUNT(*) FROM src_artistas").fetchone()[0])
+print("Tracks:", con.execute("SELECT COUNT(*) FROM src_tracks").fetchone()[0])
+print("Usuários:", con.execute("SELECT COUNT(*) FROM src_usuarios").fetchone()[0])
+print("Plays:", con.execute("SELECT COUNT(*) FROM src_plays").fetchone()[0])
 
 # ------ criar as tabelas dimensionais------
 
